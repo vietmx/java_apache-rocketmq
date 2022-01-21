@@ -1,0 +1,6 @@
+com\maixuanviet\rocketmq\producer\CartEventProducer.class
+com\maixuanviet\rocketmq\consumer\CartEventConsumer$CardItemRemoveConsumer.class
+com\maixuanviet\rocketmq\event\CartItemEvent.class
+com\maixuanviet\rocketmq\consumer\CartEventConsumer$CardItemAddConsumer.class
+com\maixuanviet\rocketmq\consumer\CartEventConsumer.class
+com\maixuanviet\rocketmq\transaction\TransactionListenerImpl.class
